@@ -8,3 +8,5 @@
 * [Bayesian Learning](https://github.com/mrolarik/basic-machine-learnig/blob/master/ML-07-Machine-Learning-Bayesian-Learning.pdf)
 
 # Convolutional Neural Networks (CNNs)
+* J. Sanuksan and **O. Surinta** (2019). [Deep Convolutional Neural Networks for Plant Recognition in Natural Environment](https://github.com/mrolarik/basic-machine-learnig/blob/master/article2449_80536.pdf), Journal of Science and Technology Mahasarakham University, 38(2), 113-124.
+* N. Raksaard and **O. Surinta** (2018). [Comparative Study Between Local Descriptors and Deep Learning for Silk Pattern Image Retrieval](https://github.com/mrolarik/basic-machine-learnig/blob/master/article2392_99979.pdf), Journal of Science and Technology Mahasarakham University, 37(6), 736-746.
